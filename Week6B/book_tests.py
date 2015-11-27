@@ -1,7 +1,7 @@
 import unittest
 from unittest import mock
 
-from book import Book
+from Week6B.book import Book
 
 
 class BookTestSuite(unittest.TestCase):

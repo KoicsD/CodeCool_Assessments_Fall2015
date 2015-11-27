@@ -58,3 +58,6 @@ target/
 
 # environment (PyCharm)
 .idea/
+
+# data:
+*.csv

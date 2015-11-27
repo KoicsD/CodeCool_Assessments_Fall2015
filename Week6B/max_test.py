@@ -1,5 +1,5 @@
 import unittest
-from assessment.max import max
+from Week6B.max import max
 
 
 class MaxTestCase(unittest.TestCase):
